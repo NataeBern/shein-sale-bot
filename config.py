@@ -1,7 +1,7 @@
-token_API = '6330055172:AAGRAka4wVRKi5cHtLeqMr86oAvM8-I0l8I'
+token_API = ' '
 
-chanel_ID = '@sheininsale'
+chanel_ID = ' '
 
-ADMIN = '6662648924'
+ADMIN = ' '
 
 bot_URL = '@Shein_sale_bot'
